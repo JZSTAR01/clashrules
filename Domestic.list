@@ -1,7 +1,9 @@
+# NAME: Domestic
+# UPDATED: 2026-10-14
+# TOTAL: 271
+
 # > Beplay
 DOMAIN-KEYWORD,beplay
-
-
 
 # > Prior
 DOMAIN,client.amplifi.com
@@ -14,7 +16,6 @@ DOMAIN-SUFFIX,p4pfile.com
 DOMAIN-SUFFIX,zmzfile.com
 
 # > Sony
-USER-AGENT,RemotePlay*
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
@@ -35,13 +36,12 @@ IP-CIDR6,2a0b:b583::/48,no-resolve
 IP-CIDR,182.254.116.0/24,no-resolve
 
 # > Tencent WeChat (International)
-IP-CIDR,101.32.96.0/20,DIRECT,no-resolve
-IP-CIDR,101.32.104.0/21,DIRECT,no-resolve
-IP-CIDR,101.32.118.0/23,DIRECT,no-resolve
-IP-CIDR,129.226.0.0/16,DIRECT,no-resolve
-IP-CIDR,183.128.0.0/11,DIRECT,no-resolve
-IP-CIDR,183.131.48.0/20,DIRECT,no-resolve
-
+IP-CIDR,101.32.96.0/20,no-resolve
+IP-CIDR,101.32.104.0/21,no-resolve
+IP-CIDR,101.32.118.0/23,no-resolve
+IP-CIDR,129.226.0.0/16,no-resolve
+IP-CIDR,183.128.0.0/11,no-resolve
+IP-CIDR,183.131.48.0/20,no-resolve
 DOMAIN-SUFFIX,biqusk.com
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,12306.com
@@ -284,7 +284,6 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
-
 IP-CIDR,1.255.62.0/24,no-resolve
 
 # > CN

@@ -1,64 +1,61 @@
-blizzard.cn @cn
-blizzard.com
-blizzardgames.cn @cn
-blizzardgearstore.com
-blz-contentstack.com
-blzstatic.cn @cn
+# NAME: Blizzard (non-CN)
+# UPDATED: 2026-10-14
+# NOTE: converted from v2ray geosite syntax; @cn entries left to Domestic/GEOSITE,CN
+# TOTAL: 56
 
-# Battle.Net
-battle.net
-battlenet.com.cn @cn
-bnet.163.com @cn
-full:blizzard.nefficient.co.kr
-full:blzddist1-a.akamaihd.net
-full:blzddistkr1-a.akamaihd.net
-full:bnetcmsus-a.akamaihd.net
-full:bnetproduct-a.akamaihd.net
-full:bnetshopus.akamaized.net
-
-# Diablo
-diablo3.com
-diabloimmortal.com
-full:di.res.netease.com @cn
-full:diablo3.nosdn.127.net @cn
-
-# Hearthstone
-firesidegatherings.com
-playhearthstone.com
-full:hearthstone.nosdn.127.net @cn
-IP-CIDR,255.255.255.0/24,no-resolve
-IP-CIDR,24.105.29.0/24,no-resolve
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,blizzard.nefficient.co.kr
+DOMAIN-SUFFIX,blizzardgearstore.com
+DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
+DOMAIN-SUFFIX,blz-contentstack.com
+DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
+DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
+DOMAIN-SUFFIX,blznav.akamaized.net
+DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
+DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
+DOMAIN-SUFFIX,bnetshopus.akamaized.net
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diabloimmortal.com
+DOMAIN-SUFFIX,firesidegatherings.com
+DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,playhearthstone.com
+DOMAIN-SUFFIX,playoverwatch.com
+DOMAIN-SUFFIX,playwarcraft3.com
+DOMAIN-SUFFIX,starcraft.com
+DOMAIN-SUFFIX,starcraft2.com
+DOMAIN-SUFFIX,worldofwarcraft.com
+DOMAIN-SUFFIX,wowchina.com
+IP-CIDR,103.4.114.233/32,no-resolve
+IP-CIDR,103.4.115.248/32,no-resolve
 IP-CIDR,117.52.35.0/24,no-resolve
+IP-CIDR,137.221.105.2/32,no-resolve
 IP-CIDR,137.221.106.0/24,no-resolve
-IP-CIDR,59.153.40.0/24,no-resolve
-IP-CIDR,158.115.207.0/24,no-resolve
 IP-CIDR,151.101.78.0/24,no-resolve
+IP-CIDR,158.115.207.0/24,no-resolve
+IP-CIDR,182.162.116.1/32,no-resolve
+IP-CIDR,182.162.132.1/32,no-resolve
+IP-CIDR,182.162.135.1/32,no-resolve
+IP-CIDR,185.60.112.157/32,no-resolve
+IP-CIDR,185.60.112.158/32,no-resolve
+IP-CIDR,185.60.114.159/32,no-resolve
+IP-CIDR,202.9.67.254/32,no-resolve
+IP-CIDR,202.9.67.59/32,no-resolve
+IP-CIDR,203.66.81.98/32,no-resolve
+IP-CIDR,203.69.111.4/32,no-resolve
+IP-CIDR,210.242.235.6/32,no-resolve
+IP-CIDR,210.71.148.11/32,no-resolve
+IP-CIDR,211.115.104.1/32,no-resolve
+IP-CIDR,211.234.110.1/32,no-resolve
+IP-CIDR,222.231.22.1/32,no-resolve
+IP-CIDR,24.105.29.0/24,no-resolve
+IP-CIDR,24.105.30.129/32,no-resolve
+IP-CIDR,24.105.62.129/32,no-resolve
 IP-CIDR,34.117.122.0/24,no-resolve
-# Hero of the Storm
-heroesofthestorm.com
-full:hearthstone.nosdn.127.net @cn
-full:heroes.nos.netease.com @cn
-
-# Overwatch
-playoverwatch.com
-full:overwatch.nosdn.127.net @cn
-
-# Starcraft
-starcraft.com
-starcraft2.com
-full:sc2.nosdn.127.net @cn
-
-# Warcraft
-playwarcraft3.com
-
-# World of Warcraft
-worldofwarcraft.com
-wowchina.com @cn
-full:wow.nosdn.127.net @cn
-
-
-full:blizzcon-a.akamaihd.net
-full:blz.nosdn.127.net @cn
-full:blzmedia-a.akamaihd.net
-full:blznav.akamaized.net
-full:cn.actual.battle.net @cn
+IP-CIDR,54.207.104.145/32,no-resolve
+IP-CIDR,54.207.107.12/32,no-resolve
+IP-CIDR,54.94.196.47/32,no-resolve
+IP-CIDR,59.153.40.0/24,no-resolve

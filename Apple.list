@@ -1,7 +1,7 @@
 # NAME: Apple
 # UPDATED: 2026-10-14
 # NOTE: merged from https://github.com/blackmatrix7/ios_rule_script (Apple)
-# TOTAL: 1593
+# TOTAL: 1591
 
 DOMAIN,apple-events.akamaized.net
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
@@ -64,7 +64,6 @@ DOMAIN-SUFFIX,airtunes.com
 DOMAIN-SUFFIX,airtunes.info
 DOMAIN-SUFFIX,airtunes.net
 DOMAIN-SUFFIX,ajtalk.com
-DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,albeats.com
 DOMAIN-SUFFIX,alchemysynth.com
 DOMAIN-SUFFIX,annstores.net
@@ -857,7 +856,6 @@ DOMAIN-SUFFIX,desktopmovies.org
 DOMAIN-SUFFIX,detaliczny.com
 DOMAIN-SUFFIX,developer-advisor.com
 DOMAIN-SUFFIX,device-manager.us
-DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digitalhub.com
 DOMAIN-SUFFIX,discountbeatsbydre-us.com
 DOMAIN-SUFFIX,discountbeatsstore.com
